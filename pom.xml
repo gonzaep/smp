@@ -73,7 +73,7 @@
         <junit.version>4.13.2</junit.version>
         <junitparams.version>1.1.1</junitparams.version>
         <logback.version>1.2.11</logback.version>
-        <mysql.jdbc.version>8.0.31</mysql.jdbc.version>
+        <mysql.jdbc.version>8.0.32</mysql.jdbc.version>
         <metro.version>2.2.1-1</metro.version>
         <mockito.version>2.23.4</mockito.version>
         <orika.version>1.5.4</orika.version>
