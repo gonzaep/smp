@@ -84,7 +84,7 @@
         <spring-boot.version>2.7.7</spring-boot.version>
         <spring-boot.tomcat.version>9.0.70</spring-boot.tomcat.version>
         <spring.security.version>5.7.5</spring.security.version>
-        <spring.version>5.3.25</spring.version>
+        <spring.version>5.3.27</spring.version>
         <xmlunit.version>2.9.0</xmlunit.version>
 
         <!-- plugins -->
