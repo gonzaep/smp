@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:kinetic
 MAINTAINER Joze Rihtarsic
 
 ARG SMP_VERSION
