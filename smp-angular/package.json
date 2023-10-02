@@ -52,7 +52,7 @@
     "karma-cli": "^2.0.0",
     "karma-jasmine": "^4.0.1",
     "ng-packagr": "^13.2.1",
-    "postcss": "^8.3.9",
+    "postcss": "^8.4.31",
     "protractor": "^7.0.0",
     "ts-node": "^10.3.0",
     "tslint": "^6.1.3",
