@@ -1,4 +1,4 @@
-FROM httpd:2.4.39
+FROM httpd:2.4.58
 
 # in order to be able to use additional terminal capabilities
 ENV TERM=xterm-256color
