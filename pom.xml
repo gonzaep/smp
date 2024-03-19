@@ -83,7 +83,7 @@
         <spring-modules-jakarta-commons.version>0.8</spring-modules-jakarta-commons.version>
         <spring-boot.version>2.7.7</spring-boot.version>
         <spring-boot.tomcat.version>9.0.70</spring-boot.tomcat.version>
-        <spring.security.version>5.7.5</spring.security.version>
+        <spring.security.version>5.7.12</spring.security.version>
         <spring.version>5.3.25</spring.version>
         <xmlunit.version>2.9.0</xmlunit.version>
 
