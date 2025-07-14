@@ -61,8 +61,8 @@
         <hibernate.validator.version>7.0.1.Final</hibernate.validator.version>
         <hibernate.version>5.6.9.Final</hibernate.version>
         <httpclient.version>4.5.13</httpclient.version>
-        <jackson-databind.version>2.14.1</jackson-databind.version>
-        <jackson.version>2.14.1</jackson.version>
+        <jackson-databind.version>2.15.0</jackson-databind.version>
+        <jackson.version>2.15.0</jackson.version>
         <javaee-api.version>7.0</javaee-api.version>
         <javax.annotation.version>1.3.2</javax.annotation.version>
         <javax.mail.version>1.6.2</javax.mail.version>
@@ -81,8 +81,8 @@
         <slf4j.version>1.7.36</slf4j.version>
         <soapui.plugin.version>5.1.2</soapui.plugin.version>
         <spring-modules-jakarta-commons.version>0.8</spring-modules-jakarta-commons.version>
-        <spring-boot.version>2.7.7</spring-boot.version>
-        <spring-boot.tomcat.version>9.0.70</spring-boot.tomcat.version>
+        <spring-boot.version>3.3.7</spring-boot.version>
+        <spring-boot.tomcat.version>9.0.107</spring-boot.tomcat.version>
         <spring.security.version>5.7.5</spring.security.version>
         <spring.version>5.3.25</spring.version>
         <xmlunit.version>2.9.0</xmlunit.version>
